@@ -43,3 +43,13 @@
     left: 55px;
     top: 7px;
 }
+
+.xbox .quadrant {
+    position: absolute;
+    background: url(xbox-assets/quadrantchanged.svgz);
+    height: 45px;
+    width: 45px;
+    top: 258px;
+    left: 354px;
+    z-index: 0;
+}
